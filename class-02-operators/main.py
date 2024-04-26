@@ -39,3 +39,26 @@ print(2 > 3)
 print(2 < 3)
 print(2 <= 3)
 print(3 >= 3)
+print(1 == "1")
+
+# Logical
+# And
+print(True and True)
+print(True and False)
+print(False and True)
+print(True and False)
+
+# Or
+print(True or True)
+print(True or False)
+print(False or True)
+print(True or False)
+
+# Not
+print(not False)
+print(not True)
+
+print(2 == 2 and 3 == 3)
+print(2 != 2 and 3 == 3)
+print(2 != 2 or 3 == 3)
+print(2 != 2 or not 3 == 3)
