@@ -1,2 +1,3 @@
+deposito (+), 100.0
+saque (-), 50.0
 deposito (+), 200.0
-deposito (+), 3e+32
